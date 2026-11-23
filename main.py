@@ -8,7 +8,7 @@ for numeros in lista:
     else: 
         print("Es menor que 50")
 
-
+print("Fin del archivo")
 
 # git init = para inicializar un repositorio en git
 
